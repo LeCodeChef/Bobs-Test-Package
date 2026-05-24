@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = 'Bobs_Testpackage'
-version = "0.0.1"
+version = "0.0.2"
 authors = [{ name="Ben Su", email="benisinyourwalls12@gmail.com" }]
 description = "A small example package for testing out PyPI"
 readme = "README.md"
