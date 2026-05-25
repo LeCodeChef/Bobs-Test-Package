@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = 'Bobs_Testpackage'
-version = "0.0.3"
+version = "0.0.4"
 authors = [{ name="Ben Su", email="benisinyourwalls12@gmail.com" }]
 description = "A small example package for testing out PyPI"
 readme = "README.md"
@@ -14,7 +14,7 @@ license = "MIT"
 license-files = ["LICEN[CS]E*"]
 
 [project.urls]
-Source code = "https://github.com/LeCodeChef/Bobs-Test-Package"
+Source ="https://github.com/LeCodeChef/Bobs-Test-Package"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/Bobs_Testpackage"]
