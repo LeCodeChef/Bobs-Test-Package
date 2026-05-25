@@ -14,7 +14,7 @@ license = "MIT"
 license-files = ["LICEN[CS]E*"]
 
 [project.urls]
-Homepage = "https://github.com/LeCodeChef/Bobs-Test-Package"
+Source code = "https://github.com/LeCodeChef/Bobs-Test-Package"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/Bobs_Testpackage"]
